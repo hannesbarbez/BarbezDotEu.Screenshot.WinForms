@@ -1,9 +1,8 @@
 # Screenshot One Pro
 This is the repository for the Screenshot One Pro application in the Microsoft Store (BarbezDotEu.Screenshot.WinForms). 
 
-![Screenshot One Pro screenshot](https://barbez.eu/wp-content/uploads/2020/09/ScreenShotOneProDesktop-1024x576.png)
-
 Screenshot One Pro takes awesome, whole webpage screenshots in batch.
+![Screenshot One Pro purpose](https://barbez.eu/wp-content/uploads/2020/02/PPTX-1024x576.jpg)
 
 Screenshot One Pro makes full-length screenshots of webpages much larger than your screen resolution – in batch! It’s straight-forward, and does not contain advertisements!
 
@@ -27,6 +26,8 @@ Save as PNG, GIF or JPG/JPEG. You can add a PNG or GIF watermark from anywhere o
 - Custom file output folder
 - Facilitation of common post-screenshot tasks: copy the resulting file path to clipboard, openthe containing folder so you can move it elsewhere, show the screenshot in your favorite viewer, and more.
 - Private: Screenshots render locally, there is NO data collection done by the the Screenshot One Pro app.
+
+![Screenshot One Pro visual](https://barbez.eu/wp-content/uploads/2020/09/ScreenShotOneProDesktop-1024x576.png)
 
 # Example use cases
 - You need to render a batch of screenshots and want to automate the process with a couple of clicks.
