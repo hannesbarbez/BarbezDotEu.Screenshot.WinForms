@@ -1,5 +1,5 @@
-# BarbezDotEu.Screenshot.WinForms (a.k.a. Screenshot One Pro)
-Repository for the Screenshot One Pro application in the Microsoft Store. 
+# Screenshot One Pro
+This is the repository for the Screenshot One Pro application in the Microsoft Store (BarbezDotEu.Screenshot.WinForms). 
 
 Screenshot One Pro takes awesome, whole webpage screenshots in batch.
 
