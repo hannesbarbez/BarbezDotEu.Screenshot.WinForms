@@ -53,28 +53,28 @@ All switches are optional, but the more you use, the higher the potential degree
 
 where:
 
-> -t: file format for the output file: PNG, JPEG, GIF, TIFF or BMP;
-> -u: url of the website to make a screen capture of;
-> -h: height of screenshot in pixels;
-> -w: width of screenshot in pixels;
-> -d Y: auto-execute command or omit if the “Render Screenshot” button needs to be invoked manually;
-> -v: version and mode of Internet Explorer emulation (see below for options);
-> -r: reference for naming the resulting file name;
-> -l: full path to desired output folder;
-> -m: path to an optional watermark picture.
+- -t: file format for the output file: PNG, JPEG, GIF, TIFF or BMP;
+- -u: url of the website to make a screen capture of;
+- -h: height of screenshot in pixels;
+- -w: width of screenshot in pixels;
+- -d Y: auto-execute command or omit if the “Render Screenshot” button needs to be invoked manually;
+- -v: version and mode of Internet Explorer emulation (see below for options);
+- -r: reference for naming the resulting file name;
+- -l: full path to desired output folder;
+- -m: path to an optional watermark picture.
 
 # IE Version and Mode Emulation options (CLI -v switch)
 The currently available versions and modes for the Trident IE mode switch -v are listed here. Not all might be available on all computers, as this depends greatly on the Windows version used and the updates installed.
 
-> -v (Latest): Will attempt to use the most recent IE version and mode (11 “Edge” User Agent String);
-> -v 11QuirksMode: IE version 11 in Quirks mode;
-> -v 11EdgeMode: IE v11 in Edge mode;
-> -v 10QuirksMode: IE v10 in Quirks mode;
-> -v 10StandardsMode: IE v10 in Standards-compliance mode;
-> -v 9QuirksMode: IE 9 – Quirks;
-> -v 9StandardsMode: IE 9 – Standards;
-> -v 8QuirksMode: IE 8 – Quirks;
-> -v 8StandardsMode: IE 8 – Standards; -v 7 : IE v7.
+- -v (Latest): Will attempt to use the most recent IE version and mode (11 “Edge” User Agent String);
+- -v 11QuirksMode: IE version 11 in Quirks mode;
+- -v 11EdgeMode: IE v11 in Edge mode;
+- -v 10QuirksMode: IE v10 in Quirks mode;
+- -v 10StandardsMode: IE v10 in Standards-compliance mode;
+- -v 9QuirksMode: IE 9 – Quirks;
+- -v 9StandardsMode: IE 9 – Standards;
+- -v 8QuirksMode: IE 8 – Quirks;
+- -v 8StandardsMode: IE 8 – Standards; -v 7 : IE v7.
 
 # Versions
 See versions.txt
