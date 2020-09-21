@@ -1,5 +1,5 @@
 # BarbezDotEu.Screenshot.WinForms (a.k.a. Screenshot One Pro)
-Repository for the Screenshot One Pro application in the Microsoft Store.
+Repository for the Screenshot One Pro application in the Microsoft Store. 
 
 Screenshot One Pro takes awesome, whole webpage screenshots in batch.
 
@@ -77,8 +77,11 @@ The currently available versions and modes for the Trident IE mode switch -v are
 - -v 8StandardsMode: IE 8 – Standards; -v 7 : IE v7.
 
 # Versions
-See versions.txt
+See [versions.txt](https://github.com/hannesbarbez/BarbezDotEu.Screenshot.WinForms/blob/main/BarbezDotEu.Screenshot.WinForms/versions.txt)
 
 # Technology
 WinForms, C#, .NET
 
+This app was mostly written in 2015, but maintained throughout the years (still is).
+
+Bbecause we're >2020 and this project employs Internet Explorer and .NET Framework, the code hasn't been refactored to the latest coding standards. As such, it does not necessarily represent my current code style.
