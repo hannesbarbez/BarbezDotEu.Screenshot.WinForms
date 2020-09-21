@@ -1,0 +1,31 @@
+v3.3 (TBA):
+- UI overhaul with better UX;
+- Native support for display scaling;
+- Screenshot One Pro is now open-sourced and forkable at https://github.com/hannesbarbez/BarbezDotEu.Screenshot.WinForms.
+
+v3.2 (March 2020):
+- Updated Target Framework to 4.7.2;
+- Added support for making screenshots of local HTML files; 
+- Added easier clipboard access;
+
+v3.1 (March 2019):
+- Fixed: watermarking bug;
+- Fixed: Changed example URLs to comply with Microsoft Store.
+
+v3.0 (February 2019):
+- NEW! Added an all-new bulk renderer! You can now submit an entire list of webpages and, with one click, Screenshot One Pro will make batch screenshots of all pages in the list;
+- Minor fixes to watermark file picker, file naming, and the rating link;
+- Minor cosmetic tweaks;
+- Smaller footprint.
+
+v2.2:
+- Added: larger default presets;
+- Added: link to rate the app;
+- Reduced: default window size;
+- Changed: "Documents" folder now set as default for storing website screenshots.
+
+v2.1: 
+Minor updates.
+
+v2.0:
+Initial Microsoft Store release.
