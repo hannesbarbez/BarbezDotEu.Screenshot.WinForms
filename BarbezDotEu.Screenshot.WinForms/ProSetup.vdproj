@@ -203,7 +203,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Screenshot One Pro"
         "ProductCode" = "8:{C145AB3E-9EF1-4EB3-AA82-20263D9D1D4B}"
-        "PackageCode" = "8:{D42BFD6A-72BA-47FB-B05D-28115AF5A660}"
+        "PackageCode" = "8:{7624281A-126D-4D77-9D6A-38578E2FE7E5}"
         "UpgradeCode" = "8:{4031620D-F0DE-4201-8019-3ADC1EEBC26A}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -323,18 +323,18 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_A7462666AFAA43C7B42D35ACE28ADCFF"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_3DA41BE5C8F3498AB4678FD252EA3CDA"
             {
-            "Name" = "8:Screenshot One Pro"
+            "Name" = "8:Shortcut to Screenshot One Pro License.rtf"
             "Arguments" = "8:"
-            "Description" = "8:Takes whole page screenshots of web pages right from your Windows Desktop"
+            "Description" = "8:"
             "ShowCmd" = "3:1"
-            "IconIndex" = "3:32512"
+            "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_00D3931587364C84B1DA3B4ABB1C4FE0"
+            "Target" = "8:_2BE4D839687B4EE89221A806779F19A3"
             "Folder" = "8:_CC2A9C342F094E5ABCCF722BB39FD7A9"
             "WorkingFolder" = "8:_CCFFC8DD363D46088EBE2310878BDAD5"
-            "Icon" = "8:_00D3931587364C84B1DA3B4ABB1C4FE0"
+            "Icon" = "8:"
             "Feature" = "8:"
             }
         }
