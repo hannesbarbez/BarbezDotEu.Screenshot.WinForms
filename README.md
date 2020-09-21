@@ -1,6 +1,8 @@
 # Screenshot One Pro
 This is the repository for the Screenshot One Pro application in the Microsoft Store (BarbezDotEu.Screenshot.WinForms). 
 
+![Screenshot One Pro screenshot](https://barbez.eu/wp-content/uploads/2020/09/ScreenShotOneProDesktop-1024x576.png)
+
 Screenshot One Pro takes awesome, whole webpage screenshots in batch.
 
 Screenshot One Pro makes full-length screenshots of webpages much larger than your screen resolution – in batch! It’s straight-forward, and does not contain advertisements!
