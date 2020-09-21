@@ -82,6 +82,5 @@ See [versions.txt](https://github.com/hannesbarbez/BarbezDotEu.Screenshot.WinFor
 # Technology
 WinForms, C#, .NET
 
-This app was mostly written in 2015, but maintained throughout the years (still is).
-
-Bbecause we're >2020 and this project employs Internet Explorer and .NET Framework, the code hasn't been refactored to the latest coding standards. As such, it does not necessarily represent my current code style.
+# Mild disclaimer
+This app was mostly written in 2015, but maintained throughout the years (still is). Because we're >2020 and this project employs Internet Explorer and .NET Framework, the code hasn't been refactored to the latest coding standards. As such, it does not necessarily represent my current code style.
